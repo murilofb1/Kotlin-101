@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\730b570de22e277bf46f15fa5f72de78\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cdf037e96ecf17e2f4a927ec2d6a3c82\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0-alpha02] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\b7e50db3162d89f66ac99812bd80d9e9\jetified-core-ktx-1.9.0-alpha02\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\62a0bbf01b6cd19b1ab16a56a7ba1e87\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\d274003b3a2ed2dcc022db0d38c43944\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cdb05f9250190e00257327ff94d36a43\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a3918366ba3f8ac29e47d3ef9f3327a9\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\ee094d04d211dc0481e8f56d7a41fc41\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cca142d6bcf17fb356cb1bbae6bbe9aa\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\f6f20344b86dc05552e742619db7ec4f\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\34209d2a6f0c8ce9342d148ff8c320c4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a36d0154d77a204bbdd4d57b88d81382\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\7de6912ba2a50ad2171debed52068d81\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\17a87e69cd7fe3e82c1a5e98ecda0968\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\063eb7641ff28a0f615015c7221a89c7\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0-alpha02] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a43ca5b73b1776d7f0744b8da78582e2\core-1.9.0-alpha02\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\c5ca73fcbd099178ddc500fce8df5f5a\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\bab2e322e808d5383f10b91d95602663\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\b4c40eb94565bd4b46a6529b3cca1a61\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\141c1b9623264e826a37265999ad2795\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cb634afefcf9f76c3c53bac223eef6c4\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\5303b93a81f7a94df45f035ba8f32cf8\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\ffbc130e8b7c9c592d8ce61132dcdea9\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\fd6c0550e34ca85cb69e01d6bfbc0701\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\5903324e6bc3eabf0039a5a0d9ac324f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\730b570de22e277bf46f15fa5f72de78\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\730b570de22e277bf46f15fa5f72de78\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.9.0-alpha02] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a43ca5b73b1776d7f0744b8da78582e2\core-1.9.0-alpha02\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.9.0-alpha02] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a43ca5b73b1776d7f0744b8da78582e2\core-1.9.0-alpha02\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\141c1b9623264e826a37265999ad2795\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\141c1b9623264e826a37265999ad2795\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0-alpha02] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a43ca5b73b1776d7f0744b8da78582e2\core-1.9.0-alpha02\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.murilofb.mediaplayer.MainActivity
+ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\730b570de22e277bf46f15fa5f72de78\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\730b570de22e277bf46f15fa5f72de78\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cdf037e96ecf17e2f4a927ec2d6a3c82\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cdf037e96ecf17e2f4a927ec2d6a3c82\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0-alpha02] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\b7e50db3162d89f66ac99812bd80d9e9\jetified-core-ktx-1.9.0-alpha02\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.9.0-alpha02] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\b7e50db3162d89f66ac99812bd80d9e9\jetified-core-ktx-1.9.0-alpha02\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\62a0bbf01b6cd19b1ab16a56a7ba1e87\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\62a0bbf01b6cd19b1ab16a56a7ba1e87\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\d274003b3a2ed2dcc022db0d38c43944\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\d274003b3a2ed2dcc022db0d38c43944\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cdb05f9250190e00257327ff94d36a43\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cdb05f9250190e00257327ff94d36a43\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a3918366ba3f8ac29e47d3ef9f3327a9\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a3918366ba3f8ac29e47d3ef9f3327a9\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\ee094d04d211dc0481e8f56d7a41fc41\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\ee094d04d211dc0481e8f56d7a41fc41\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cca142d6bcf17fb356cb1bbae6bbe9aa\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cca142d6bcf17fb356cb1bbae6bbe9aa\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\f6f20344b86dc05552e742619db7ec4f\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\f6f20344b86dc05552e742619db7ec4f\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\34209d2a6f0c8ce9342d148ff8c320c4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\34209d2a6f0c8ce9342d148ff8c320c4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a36d0154d77a204bbdd4d57b88d81382\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a36d0154d77a204bbdd4d57b88d81382\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\7de6912ba2a50ad2171debed52068d81\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\7de6912ba2a50ad2171debed52068d81\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\17a87e69cd7fe3e82c1a5e98ecda0968\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\17a87e69cd7fe3e82c1a5e98ecda0968\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\063eb7641ff28a0f615015c7221a89c7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\063eb7641ff28a0f615015c7221a89c7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0-alpha02] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a43ca5b73b1776d7f0744b8da78582e2\core-1.9.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0-alpha02] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\a43ca5b73b1776d7f0744b8da78582e2\core-1.9.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\c5ca73fcbd099178ddc500fce8df5f5a\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\c5ca73fcbd099178ddc500fce8df5f5a\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\bab2e322e808d5383f10b91d95602663\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\bab2e322e808d5383f10b91d95602663\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\b4c40eb94565bd4b46a6529b3cca1a61\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\b4c40eb94565bd4b46a6529b3cca1a61\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\141c1b9623264e826a37265999ad2795\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\141c1b9623264e826a37265999ad2795\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cb634afefcf9f76c3c53bac223eef6c4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\cb634afefcf9f76c3c53bac223eef6c4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\5303b93a81f7a94df45f035ba8f32cf8\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\5303b93a81f7a94df45f035ba8f32cf8\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\ffbc130e8b7c9c592d8ce61132dcdea9\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\ffbc130e8b7c9c592d8ce61132dcdea9\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\fd6c0550e34ca85cb69e01d6bfbc0701\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\fd6c0550e34ca85cb69e01d6bfbc0701\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\5903324e6bc3eabf0039a5a0d9ac324f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\muril\.gradle\caches\transforms-2\files-2.1\5903324e6bc3eabf0039a5a0d9ac324f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muril\OneDrive\Programacao\AndroidProjects\MusicPlayer\app\src\main\AndroidManifest.xml

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roll The Dice</string>
+    <string name="str_current_face">Current face:</string>
+    <string name="btn_roll">Roll</string>
+</resources>
